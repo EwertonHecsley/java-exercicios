@@ -1,3 +1,5 @@
+package br.com.cubos.exercicios.introducao;
+
 public class Exercicio_04 {
     //Faça um programa que utilize um loop `for` para imprimir os
     //números de 1 a 10.

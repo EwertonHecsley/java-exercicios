@@ -1,3 +1,5 @@
+package br.com.cubos.exercicios.introducao;
+
 public class Exercicio_02 {
 
     //Escreva um programa que utilize a estrutura de condição `if`

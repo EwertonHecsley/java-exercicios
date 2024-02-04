@@ -1,3 +1,5 @@
+package br.com.cubos.exercicios.introducao;
+
 public class Exercicio_05 {
     //Escreva um programa que utilize o loop `foreach` para percorrer
     //e exibir os elementos de um array.
