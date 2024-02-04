@@ -5,7 +5,6 @@ package br.com.cubos.exercicios.orientacaoObjetos.exercicio03;
 public class ContaBancaria {
     private int saldo = 0;
 
-
     public int getSaldo(){
         return  this.saldo;
     }
